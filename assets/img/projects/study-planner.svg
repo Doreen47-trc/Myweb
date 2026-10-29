@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f2f5ff"/>
+  <rect x="40" y="42" width="720" height="516" rx="24" fill="#fff"/>
+  <rect x="40" y="42" width="720" height="62" rx="24" fill="#fff"/>
+  <circle cx="76" cy="73" r="13" fill="#6568e8"/>
+  <text x="100" y="79" fill="#242a52" font-family="Arial,sans-serif" font-size="18" font-weight="700">STUDYSPACE</text>
+  <rect x="600" y="59" width="112" height="28" rx="14" fill="#f0efff"/>
+  <text x="620" y="78" fill="#6568e8" font-family="Arial,sans-serif" font-size="12">THIS WEEK</text>
+  <text x="76" y="154" fill="#242a52" font-family="Arial,sans-serif" font-size="27" font-weight="700">Your study plan</text>
+  <text x="76" y="180" fill="#8489a1" font-family="Arial,sans-serif" font-size="14">Small steps, steady progress.</text>
+  <g fill="#f7f7fc"><rect x="76" y="205" width="302" height="72" rx="14"/><rect x="396" y="205" width="328" height="72" rx="14"/><rect x="76" y="294" width="302" height="72" rx="14"/><rect x="396" y="294" width="328" height="72" rx="14"/><rect x="76" y="383" width="302" height="72" rx="14"/></g>
+  <g fill="#6568e8"><circle cx="106" cy="241" r="13"/><circle cx="426" cy="241" r="13"/><circle cx="106" cy="330" r="13"/><circle cx="426" cy="330" r="13"/><circle cx="106" cy="419" r="13"/></g>
+  <g stroke="#fff" stroke-width="3" fill="none"><path d="m100 241 5 5 9-11"/><path d="m420 241 5 5 9-11"/><path d="m100 330 5 5 9-11"/></g>
+  <g fill="#303754" font-family="Arial,sans-serif" font-size="15" font-weight="700"><text x="132" y="238">Review data structures</text><text x="452" y="238">Build portfolio homepage</text><text x="132" y="327">Read networking notes</text><text x="452" y="327">Practise JavaScript</text><text x="132" y="416">Plan group project</text></g>
+  <g fill="#969bb0" font-family="Arial,sans-serif" font-size="12"><text x="132" y="258">MON · 9:00 AM</text><text x="452" y="258">TUE · 2:00 PM</text><text x="132" y="347">WED · 11:00 AM</text><text x="452" y="347">THU · 10:00 AM</text><text x="132" y="436">FRI · 1:00 PM</text></g>
+  <rect x="396" y="383" width="328" height="72" rx="14" fill="#eeedff"/>
+  <text x="425" y="417" fill="#6568e8" font-family="Arial,sans-serif" font-size="14" font-weight="700">4 of 6 tasks complete</text>
+  <rect x="425" y="431" width="250" height="7" rx="4" fill="#d5d3fa"/>
+  <rect x="425" y="431" width="166" height="7" rx="4" fill="#6568e8"/>
+</svg>

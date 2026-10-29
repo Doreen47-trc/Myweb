@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f7f4ec"/>
+  <rect x="40" y="38" width="720" height="524" rx="26" fill="#fff"/>
+  <rect x="40" y="38" width="720" height="58" rx="26" fill="#fff"/>
+  <text x="72" y="75" fill="#244237" font-family="Arial,sans-serif" font-size="19" font-weight="700">TWENDE <tspan fill="#d27642">KENYA</tspan></text>
+  <text x="556" y="73" fill="#718079" font-family="Arial,sans-serif" font-size="13">DESTINATIONS   STORIES</text>
+  <rect x="64" y="116" width="672" height="245" rx="20" fill="#d9ece7"/>
+  <circle cx="602" cy="177" r="44" fill="#ffd27e"/>
+  <path d="M64 300 190 198l98 76 99-105 112 104 105-83 132 110v61H64z" fill="#77a58a"/>
+  <path d="m64 326 142-74 104 63 127-71 105 83 92-56 102 55v35H64z" fill="#39765e"/>
+  <path d="M442 320c24-33 22-54 38-81m-19 39-25-20m31 7 26-22m-39 55-23 3" stroke="#f7e9b4" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <text x="92" y="166" fill="#244237" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">FIND YOUR NEXT ADVENTURE</text>
+  <text x="92" y="202" fill="#244237" font-family="Arial,sans-serif" font-size="28" font-weight="700">Discover the beauty</text>
+  <text x="92" y="235" fill="#244237" font-family="Arial,sans-serif" font-size="28" font-weight="700">of Kenya</text>
+  <rect x="92" y="254" width="128" height="35" rx="17" fill="#d27642"/>
+  <text x="111" y="277" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700">EXPLORE PLACES</text>
+  <text x="68" y="400" fill="#244237" font-family="Arial,sans-serif" font-size="18" font-weight="700">Places to explore</text>
+  <g><rect x="68" y="419" width="205" height="116" rx="14" fill="#edf3ef"/><rect x="297" y="419" width="205" height="116" rx="14" fill="#f7eee3"/><rect x="526" y="419" width="205" height="116" rx="14" fill="#e8eef2"/></g>
+  <g fill="#244237" font-family="Arial,sans-serif" font-size="15" font-weight="700"><text x="88" y="470">Maasai Mara</text><text x="317" y="470">Diani Beach</text><text x="546" y="470">Mount Kenya</text></g>
+  <g fill="#75867c" font-family="Arial,sans-serif" font-size="12"><text x="88" y="494">Wildlife &amp; wide skies</text><text x="317" y="494">Coast &amp; sunshine</text><text x="546" y="494">Trails &amp; mountain air</text></g>
+</svg>
